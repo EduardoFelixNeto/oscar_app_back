@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 @SpringBootApplication
 class OscarAppBackApplication {
 
-	static void main(String[] args) {
-		SpringApplication.run(OscarAppBackApplication, args)
-	}
+    static void main(String[] args) {
+        SpringApplication.run(OscarAppBackApplication, args)
+    }
 
 }
